@@ -1,8 +1,0 @@
-com/example/petshelter2/BuildConfig.java
- com.example.petshelter2.BuildConfig
-com/example/petshelter2/MainActivity.java
- com.example.petshelter2.MainActivity
- com.example.petshelter2.MainActivity$1
-com/example/petshelter2/EditorActivity.java
- com.example.petshelter2.EditorActivity
- com.example.petshelter2.EditorActivity$1
