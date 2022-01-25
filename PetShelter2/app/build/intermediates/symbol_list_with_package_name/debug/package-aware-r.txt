@@ -3185,7 +3185,6 @@ menu example_menu2
 menu menu_catalog
 menu menu_editor
 mipmap ic_launcher
-mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
